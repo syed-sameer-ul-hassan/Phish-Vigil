@@ -8,5 +8,5 @@
   <path class="shield" d="M50 10 L80 25 V50 C80 70 50 90 50 90 C50 90 20 70 20 50 V25 Z" />
   <text x="42" y="60" fill="white" font-size="24" font-family="Arial">P</text>
   <text x="100" y="55" class="text main">Phish-Vigil</text>
-  <text x="100" y="80" class="text sub">AEGIS // v5.0</text>
+  <text x="100" y="80" class="text sub">AEGIS // v1.0</text>
 </svg>
