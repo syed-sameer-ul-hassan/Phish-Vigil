@@ -2,8 +2,8 @@
   <style>
     .text { font-family: 'Courier New', monospace; font-weight: bold; }
     .shield { fill: #d9534f; }
-    .main { fill: #2c3e50; font-size: 40px; }
-    .sub { fill: #7f8c8d; font-size: 18px; letter-spacing: 2px; }
+    .main { fill: #d9534f; font-size: 40px; }
+    .sub { fill: #e0aaff; font-size: 18px; letter-spacing: 2px; }
   </style>
   <path class="shield" d="M50 10 L80 25 V50 C80 70 50 90 50 90 C50 90 20 70 20 50 V25 Z" />
   <text x="42" y="60" fill="white" font-size="24" font-family="Arial">P</text>
