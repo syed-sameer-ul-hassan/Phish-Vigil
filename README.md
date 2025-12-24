@@ -63,7 +63,3 @@
     * API Endpoint: \`http://127.0.0.1:5000/api/v5/dashboard\`
 
 ---
-
-## ⚖️ License
-This project is licensed under the MIT License - see the LICENSE file for details.
-# Phish-Vigil
