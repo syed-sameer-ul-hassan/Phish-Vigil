@@ -47,20 +47,23 @@
 ## Installation & Usage
 
 ### Prerequisites
-* Python 3.8+
-* \`pip install flask flask-sqlalchemy itsdangerous\`
+* **Python 3.8+**
+* Install required libraries:
+    ```bash
+    pip install flask flask-sqlalchemy itsdangerous
+    ```
 
 ### Running the Platform
-1.  Navigate to the directory:
-<br>
-    \`\`\`bash
-    cd ~/Desktop/Phish-Vigil-Aegis
-    \`\`\`
-2.  Run the server:
-    \`\`\`bash
-    python phish_vigil_aegis.py
-    \`\`\`
-3.  Access the Dashboard:
-    * API Endpoint: \`http://127.0.0.1:5000/api/v5/dashboard\`
 
----
+1.  **Navigate to the directory:**
+    ```bash
+    cd ~/Desktop/Phish-Vigil-Aegis
+    ```
+
+2.  **Run the server:**
+    ```bash
+    python phish_vigil_aegis.py
+    ```
+
+3.  **Access the Dashboard:**
+    * **API Endpoint:** `http://127.0.0.1:5000/api/v5/dashboard`
