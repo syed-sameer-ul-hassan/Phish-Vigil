@@ -7,7 +7,7 @@
 
 ---
 
-## 👤 Author & Maintainer
+## Author & Maintainer
 * **Name:** Syed Sameer Ul Hassan
 * **Certification:** Certified Cybersecurity Technician (CCT) - EC-Council
 * **Website:** [sameer.orildo.online](https://sameer.orildo.online)
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛡️ Key Features
+## Key Features
 
 ### 1. Dual-Score Engine
 * **Risk Score (0-100):** Measures liability. Increases with unsafe actions, decays naturally over time.
@@ -37,14 +37,14 @@
 
 ---
 
-## 🚀 Use Cases
+## Use Cases
 * **Corporate Security Training:** Run safe, authorized phishing simulations.
 * **Human Risk Analytics:** Identify high-risk departments without shaming individuals.
 * **Compliance Evidence:** Generate ISO 27001 / SOC2 compliant training logs.
 
 ---
 
-## 💻 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 * Python 3.8+
