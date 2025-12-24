@@ -11,7 +11,7 @@
 * **Name:** Syed Sameer Ul Hassan
 * **Certification:** Certified Cybersecurity Technician (CCT) - EC-Council
 * **Website:** [sameer.orildo.online](https://sameer.orildo.online)
-* **Instagram:** [syed_sameer_ul_hassan_kazmi](https://github.com/syed_sameer_ul_hassan_kazmi)
+* **Instagram:** [syed_sameer_ul_hassan_kazmi](https://Instagram.com/syed_sameer_ul_hassan_kazmi)
 * **Email:** sameer@orildo.online
 
 ---
