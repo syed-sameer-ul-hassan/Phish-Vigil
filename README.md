@@ -52,6 +52,7 @@
 
 ### Running the Platform
 1.  Navigate to the directory:
+<br>
     \`\`\`bash
     cd ~/Desktop/Phish-Vigil-Aegis
     \`\`\`
