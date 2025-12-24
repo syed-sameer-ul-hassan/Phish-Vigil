@@ -1,4 +1,4 @@
-# Phish-Vigil v5.0 "Aegis"
+
 ### Enterprise Human Risk Intelligence Platform
 
 ![Phish-Vigil Logo](logo.svg)
